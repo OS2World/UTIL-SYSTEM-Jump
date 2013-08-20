@@ -1,0 +1,15 @@
+; @alias/r %@search[%0]&echo JUMP aliases loaded&quit
+;
+;  This is a sample 4OS/2 alias file for JUMP 1.0
+;
+;  Below, delete the lines you won't need - and customize the others to
+;  your needs, especially if you already aliased some commands. The first
+;  line of this file is needed and executed and loads these aliases:
+;
+dir=jump *dir
+type=jump *type
+grep=jump *grep
+procs=jump *procs
+unzip=jump *unzip
+more=jump *more
+
